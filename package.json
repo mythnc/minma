@@ -1,0 +1,19 @@
+{
+  "name": "minma",
+  "version": "1.0.0",
+  "description": "development test",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "En-Hsin Wu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "jest": "^25.3.0",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3"
+  }
+}
